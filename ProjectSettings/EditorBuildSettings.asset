@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 4b585a83ae0249549aa2541ec9e424b6
+  - enabled: 1
+    path: Assets/Scenes/escenario_boss.unity
+    guid: 462ab2994a4da8a4e98ccfe9ad5e9dbb
   m_configObjects: {}
